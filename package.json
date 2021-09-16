@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio website built with Next.js and TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "nextjs"
+  ],
+  "author": "Alvvvvays",
+  "license": "MIT"
+}
