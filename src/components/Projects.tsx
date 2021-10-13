@@ -2,3 +2,4 @@
 // TODO: refactor this section (#9)
 // Updated: improve performance
 // Fix: edge case handling
+# Updated logic for better readability
