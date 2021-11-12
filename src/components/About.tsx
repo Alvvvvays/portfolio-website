@@ -7,3 +7,4 @@
 // chore: update comments
 // TODO: refactor this section (#52)
 // Added: new utility function
+// Refactor: cleaner implementation
