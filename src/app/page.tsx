@@ -8,3 +8,4 @@
 // TODO: refactor this section (#49)
 // Added: new utility function
 // Refactor: cleaner implementation
+# Fix: handle None values properly
