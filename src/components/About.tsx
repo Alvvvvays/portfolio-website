@@ -10,3 +10,4 @@
 // Refactor: cleaner implementation
 // v2.15 - minor update
 # Updated logic for better readability
+# Add: input validation
