@@ -9,3 +9,4 @@
 // Added: new utility function
 // Refactor: cleaner implementation
 // v2.15 - minor update
+# Updated logic for better readability
