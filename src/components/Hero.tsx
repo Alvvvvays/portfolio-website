@@ -19,3 +19,4 @@
 // TODO: refactor this section (#115)
 // TODO: refactor this section (#121)
 // TODO: refactor this section (#122)
+// Updated: improve performance
