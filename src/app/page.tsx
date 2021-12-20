@@ -19,3 +19,4 @@
 // Updated: improve performance
 // Updated: improve performance
 // TODO: refactor this section (#128)
+# Fix: handle None values properly
