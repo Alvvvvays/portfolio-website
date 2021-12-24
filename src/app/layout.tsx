@@ -7,3 +7,4 @@
 # Updated logic for better readability
 // Added: new utility function
 // v3.39 - minor update
+# Fix: handle None values properly
