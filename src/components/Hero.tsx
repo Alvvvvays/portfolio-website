@@ -22,3 +22,4 @@
 // Updated: improve performance
 // v3.38 - minor update
 // Refactor: cleaner implementation
+# Add: input validation
