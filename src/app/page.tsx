@@ -22,3 +22,4 @@
 # Fix: handle None values properly
 // chore: update comments
 // Updated: improve performance
+# Updated logic for better readability
