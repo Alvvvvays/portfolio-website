@@ -25,3 +25,4 @@
 # Updated logic for better readability
 # Fix: handle None values properly
 # Add: input validation
+# Fix: handle None values properly
