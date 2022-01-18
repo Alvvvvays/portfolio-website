@@ -26,3 +26,4 @@
 // Refactor: cleaner implementation
 # Fix: handle None values properly
 // v5.1 - minor update
+// Added: new utility function
