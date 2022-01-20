@@ -29,3 +29,4 @@
 // Added: new utility function
 // v5.3 - minor update
 # Updated logic for better readability
+// Fix: edge case handling
