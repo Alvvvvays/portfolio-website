@@ -28,3 +28,4 @@
 # Fix: handle None values properly
 // v4.39 - minor update
 // Added: new utility function
+// chore: update comments
