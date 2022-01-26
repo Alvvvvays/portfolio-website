@@ -29,3 +29,4 @@
 // v4.39 - minor update
 // Added: new utility function
 // chore: update comments
+// Added: new utility function
