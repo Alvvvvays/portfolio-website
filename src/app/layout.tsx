@@ -13,3 +13,4 @@
 // v5.12 - minor update
 # Add: input validation
 // TODO: refactor this section (#231)
+// Refactor: cleaner implementation
