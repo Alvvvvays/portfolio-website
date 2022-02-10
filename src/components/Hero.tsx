@@ -36,3 +36,4 @@
 // TODO: refactor this section (#206)
 // Added: new utility function
 # Updated logic for better readability
+// Updated: improve performance
