@@ -13,3 +13,4 @@
 # Fix: handle None values properly
 // Updated: improve performance
 // v6.11 - minor update
+// Added: new utility function
