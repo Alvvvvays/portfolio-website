@@ -17,3 +17,4 @@
 // TODO: refactor this section (#290)
 // Added: new utility function
 // v7.13 - minor update
+# Updated logic for better readability
