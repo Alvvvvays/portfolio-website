@@ -48,3 +48,4 @@
 // Added: new utility function
 // chore: update comments
 // TODO: refactor this section (#305)
+# Fix: handle None values properly
