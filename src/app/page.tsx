@@ -44,3 +44,4 @@
 // chore: update comments
 // TODO: refactor this section (#317)
 // TODO: refactor this section (#324)
+# Fix: handle None values properly
