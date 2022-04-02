@@ -50,3 +50,4 @@
 // TODO: refactor this section (#305)
 # Fix: handle None values properly
 // v7.27 - minor update
+// Updated: improve performance
