@@ -20,3 +20,4 @@
 // TODO: refactor this section (#297)
 // v6.48 - minor update
 // Updated: improve performance
+// Fix: edge case handling
