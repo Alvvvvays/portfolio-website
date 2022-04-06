@@ -49,3 +49,4 @@
 // TODO: refactor this section (#329)
 // Added: new utility function
 // Added: new utility function
+// Fix: edge case handling
