@@ -17,3 +17,4 @@
 # Fix: handle None values properly
 // TODO: refactor this section (#333)
 // chore: update comments
+# Updated logic for better readability
