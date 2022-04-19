@@ -58,3 +58,4 @@
 // Refactor: cleaner implementation
 // Added: new utility function
 // v8.14 - minor update
+# Fix: handle None values properly
