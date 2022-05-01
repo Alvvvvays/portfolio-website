@@ -64,3 +64,4 @@
 // Fix: edge case handling
 // Fix: edge case handling
 // v8.39 - minor update
+# Fix: handle None values properly
