@@ -54,3 +54,4 @@
 // Added: new utility function
 // v8.30 - minor update
 // chore: update comments
+// Fix: edge case handling
