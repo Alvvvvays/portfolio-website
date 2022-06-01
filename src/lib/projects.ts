@@ -26,3 +26,4 @@
 # Updated logic for better readability
 // Fix: edge case handling
 // v9.46 - minor update
+# Fix: handle None values properly
