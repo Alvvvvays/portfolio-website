@@ -84,3 +84,4 @@
 // v10.23 - minor update
 // Updated: improve performance
 // Refactor: cleaner implementation
+// Added: new utility function
