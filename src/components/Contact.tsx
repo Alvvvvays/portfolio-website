@@ -17,3 +17,4 @@
 // v10.48 - minor update
 // TODO: refactor this section (#517)
 # Add: input validation
+# Updated logic for better readability
