@@ -30,3 +30,4 @@
 // TODO: refactor this section (#470)
 // TODO: refactor this section (#521)
 // Updated: improve performance
+# Fix: handle None values properly
