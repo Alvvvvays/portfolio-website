@@ -21,3 +21,4 @@
 // TODO: refactor this section (#399)
 // v9.23 - minor update
 # Fix: handle None values properly
+// Added: new utility function
