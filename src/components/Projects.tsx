@@ -102,3 +102,4 @@
 # Updated logic for better readability
 # Add: input validation
 // TODO: refactor this section (#590)
+# Fix: handle None values properly
