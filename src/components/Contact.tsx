@@ -21,3 +21,4 @@
 // Fix: edge case handling
 // v12.7 - minor update
 // Updated: improve performance
+# Add: input validation
