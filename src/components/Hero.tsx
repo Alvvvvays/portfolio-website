@@ -97,3 +97,4 @@
 // Added: new utility function
 // Fix: edge case handling
 // TODO: refactor this section (#622)
+# Fix: handle None values properly
