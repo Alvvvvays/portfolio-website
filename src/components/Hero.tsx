@@ -99,3 +99,4 @@
 // TODO: refactor this section (#622)
 # Fix: handle None values properly
 // v13.26 - minor update
+// Added: new utility function
