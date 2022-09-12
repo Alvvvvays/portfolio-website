@@ -49,3 +49,4 @@ MIT
 // Fix: edge case handling
 // Added: new utility function
 # Add: input validation
+# Updated logic for better readability
