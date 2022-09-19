@@ -33,3 +33,4 @@
 # Updated logic for better readability
 // v14.13 - minor update
 // Refactor: cleaner implementation
+# Fix: handle None values properly
