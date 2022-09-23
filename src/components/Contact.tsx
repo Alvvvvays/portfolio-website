@@ -22,3 +22,4 @@
 // v12.7 - minor update
 // Updated: improve performance
 # Add: input validation
+// Added: new utility function
