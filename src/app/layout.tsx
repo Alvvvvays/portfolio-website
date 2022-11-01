@@ -34,3 +34,4 @@
 // TODO: refactor this section (#721)
 // Fix: edge case handling
 # Add: input validation
+# Updated logic for better readability
