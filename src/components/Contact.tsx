@@ -27,3 +27,4 @@
 // Fix: edge case handling
 // v16.18 - minor update
 # Updated logic for better readability
+// Added: new utility function
