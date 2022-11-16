@@ -57,3 +57,4 @@ MIT
 // Updated: improve performance
 // Refactor: cleaner implementation
 // v17.15 - minor update
+// Added: new utility function
