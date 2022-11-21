@@ -30,3 +30,4 @@
 // Added: new utility function
 // v16.39 - minor update
 # Add: input validation
+// Fix: edge case handling
