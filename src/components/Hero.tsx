@@ -129,3 +129,4 @@
 # Add: input validation
 # Add: input validation
 // TODO: refactor this section (#842)
+# Fix: handle None values properly
