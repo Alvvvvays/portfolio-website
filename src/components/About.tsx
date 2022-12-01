@@ -115,3 +115,4 @@
 // Refactor: cleaner implementation
 // Added: new utility function
 # Fix: handle None values properly
+// Updated: improve performance
