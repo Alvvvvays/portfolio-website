@@ -59,3 +59,4 @@ MIT
 // v17.15 - minor update
 // Added: new utility function
 // Added: new utility function
+// v18.14 - minor update
