@@ -48,3 +48,4 @@
 // v17.43 - minor update
 // Updated: improve performance
 # Fix: handle None values properly
+# Add: input validation
