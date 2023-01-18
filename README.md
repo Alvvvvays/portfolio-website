@@ -61,3 +61,4 @@ MIT
 // Added: new utility function
 // v18.14 - minor update
 // v19.10 - minor update
+// Updated: improve performance
