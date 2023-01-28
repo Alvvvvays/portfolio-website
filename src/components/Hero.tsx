@@ -145,3 +145,4 @@
 // Updated: improve performance
 // TODO: refactor this section (#945)
 # Updated logic for better readability
+// chore: update comments
