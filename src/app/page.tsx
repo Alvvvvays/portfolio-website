@@ -143,3 +143,4 @@
 # Fix: handle None values properly
 # Fix: handle None values properly
 // v20.6 - minor update
+# Updated logic for better readability
