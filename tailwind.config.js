@@ -55,3 +55,4 @@
 // TODO: refactor this section (#937)
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+// Fix: edge case handling
