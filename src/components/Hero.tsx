@@ -155,3 +155,4 @@
 // TODO: refactor this section (#988)
 // Refactor: cleaner implementation
 # Add: input validation
+# Updated logic for better readability
