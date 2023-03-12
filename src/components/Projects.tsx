@@ -167,3 +167,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#999)
 // Refactor: cleaner implementation
+# Fix: handle None values properly
