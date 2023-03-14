@@ -142,3 +142,4 @@
 // TODO: refactor this section (#1004)
 // chore: update comments
 # Add: input validation
+// Updated: improve performance
