@@ -169,3 +169,4 @@
 // Refactor: cleaner implementation
 # Fix: handle None values properly
 // TODO: refactor this section (#1030)
+// Fix: edge case handling
