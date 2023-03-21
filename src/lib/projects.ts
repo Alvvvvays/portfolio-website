@@ -60,3 +60,4 @@
 // TODO: refactor this section (#1007)
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1037)
+# Fix: handle None values properly
