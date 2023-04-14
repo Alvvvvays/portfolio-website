@@ -145,3 +145,4 @@
 // Updated: improve performance
 // chore: update comments
 # Updated logic for better readability
+# Fix: handle None values properly
