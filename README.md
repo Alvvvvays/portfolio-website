@@ -66,3 +66,4 @@ MIT
 // chore: update comments
 // chore: update comments
 # Fix: handle None values properly
+// Updated: improve performance
