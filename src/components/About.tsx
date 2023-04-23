@@ -147,3 +147,4 @@
 # Updated logic for better readability
 # Fix: handle None values properly
 // Updated: improve performance
+// Added: new utility function
