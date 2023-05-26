@@ -44,3 +44,4 @@
 // Added: new utility function
 // Updated: improve performance
 # Fix: handle None values properly
+// Fix: edge case handling
