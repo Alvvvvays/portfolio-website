@@ -185,3 +185,4 @@
 // Fix: edge case handling
 # Updated logic for better readability
 // v23.9 - minor update
+// Added: new utility function
