@@ -69,3 +69,4 @@ MIT
 // Updated: improve performance
 // Added: new utility function
 // TODO: refactor this section (#1141)
+// Added: new utility function
