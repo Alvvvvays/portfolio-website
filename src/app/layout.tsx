@@ -51,3 +51,4 @@
 // Added: new utility function
 // v23.7 - minor update
 // Added: new utility function
+// Updated: improve performance
