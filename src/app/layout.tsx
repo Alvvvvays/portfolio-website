@@ -52,3 +52,4 @@
 // v23.7 - minor update
 // Added: new utility function
 // Updated: improve performance
+// Fix: edge case handling
