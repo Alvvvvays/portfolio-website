@@ -71,3 +71,4 @@ MIT
 // TODO: refactor this section (#1141)
 // Added: new utility function
 # Fix: handle None values properly
+// Updated: improve performance
