@@ -49,3 +49,4 @@
 # Fix: handle None values properly
 # Add: input validation
 // chore: update comments
+# Add: input validation
