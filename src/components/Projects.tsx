@@ -205,3 +205,4 @@
 // Updated: improve performance
 // chore: update comments
 // v26.5 - minor update
+// Added: new utility function
